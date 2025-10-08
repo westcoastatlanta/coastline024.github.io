@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/liushangyu/quickstart",
+	"sourceRoot": "/Users/liushangyu/quickstart-github",
 	"sources": [
 		"ananke/css/main.css"
 	],
