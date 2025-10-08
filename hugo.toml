@@ -1,0 +1,15 @@
+baseURL = 'https://github.com/westcoastatlanta/coastline024.github.io'
+languageCode = 'en-us'
+title = 'Coastline'
+theme = 'ananke'
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
